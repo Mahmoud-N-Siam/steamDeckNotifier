@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Logs
+Logs/*.log
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Local config
+.env
+/tmp/steamdeck_multi_state.json
